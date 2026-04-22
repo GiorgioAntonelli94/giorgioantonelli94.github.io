@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: Il Mio Progetto Cayman
+description: Una descrizione accattivante per il tuo sito web.
+show_downloads: true # Mostra i pulsanti di download di GitHub (se applicabile)
+google_analytics: # Inserisci qui il tuo ID (es. UA-000000-01)
+
+# Se usi GitHub Pages:
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

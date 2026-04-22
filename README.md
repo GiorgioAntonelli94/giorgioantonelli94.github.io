@@ -27,7 +27,7 @@ Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I be
 If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas.  
 
 
-[![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/GiorgioAntonelli94/)
+[![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
 ---
 
 ### 📫 Contacts

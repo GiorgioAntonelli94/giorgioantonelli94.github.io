@@ -1,5 +1,5 @@
 
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
+![InRebus Technologies](loghi.jpg)
 
 <h1 align="center">👾 👋 Hi, I am Giorgio! 🤓 🚀</h1>
 

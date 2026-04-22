@@ -1,3 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Nasconde il corpo della pagina e il footer */
+.main-content {
+  display: none;
+}
+
+/* Se vuoi che la testata (dove c'è l'immagine) sia a tutto schermo */
+.page-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+
 title: Il Mio Progetto Cayman
 description: Una descrizione accattivante per il tuo sito web.
 show_downloads: true # Mostra i pulsanti di download di GitHub (se applicabile)

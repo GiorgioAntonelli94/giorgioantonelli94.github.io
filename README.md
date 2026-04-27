@@ -46,7 +46,8 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
-
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Java-React Developer** <br> `Full-stack` • `Java` • `React` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/javareact-developer-genova-124332/it/)|
 
 ### 👥 Team Members on GitHub
 
@@ -76,6 +77,12 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 [![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 
 [![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
+
+## Newsletter
+
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Bacheca_Annunci_Inrebus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
+
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Futureading_Digital_Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/futureading-digital-education-7335669848519102464/)
 ---
 
 ## 🟩⬜🟥 About FOS Group 🟩⬜🟥
@@ -95,3 +102,5 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
+
+

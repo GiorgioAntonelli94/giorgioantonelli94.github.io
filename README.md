@@ -21,10 +21,27 @@ Combining strategy and empathy, data and intuition, technology and culture.
 I manage every step of the recruitment process — from defining the hiring strategy to conducting interviews — with a personalized and human touch.  
 At the same time, I leverage social media as a powerful tool to attract, engage, and connect with the right people. Storytelling, employer branding, and community-building are key elements of my work.
 
-Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.  
-🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
+### 🧙‍♂️ Nerd at Heart & Lifelong Learner
 
-If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas.  
+Avid reader 📖, **Magic the Gathering player** 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.
+**Check out my decks on Moxfield:**
+<p align="left">
+  <a href="https://moxfield.com/users/Giorgio_Antonelli" target="_blank">
+    <img src="https://img.shields.io/badge/Moxfield-My%20Decks-202935?style=for-the-badge&logo=magic-the-gathering&logoColor=white" alt="Moxfield Profile" />
+  </a>
+</p>
+
+### 🏛️ Philosophy & Academic Roots
+
+With a background in **Philosophy**, I apply critical thinking and dialectical analysis to the professional world. I believe that technology is, first and foremost, a product of human ingenuity.
+
+<p align="left">
+  <a href="https://unito.academia.edu/GiorgioAntonelli" target="_blank">
+    <img src="https://img.shields.io/badge/Academia.edu-Papers%20%26%20Research-000000?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" />
+  </a>
+</p>
+
+Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on **GitHub** 🐙 where creativity and logic meet.
 
 
 [![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
@@ -43,7 +60,6 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
@@ -55,12 +71,6 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) | [Profile](https://linkedin.com/in/hiba-badra-023480194/) |
 | <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) | [Profile](https://www.linkedin.com/in/marwa-kadri/) |
-
-### 🔥 GitHub Streak
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark" alt="GitHub Streak" />
-</a>
 
 ---
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
@@ -103,4 +113,11 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
 
+### 🔥 GitHub Streak
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgioAntonelli94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>

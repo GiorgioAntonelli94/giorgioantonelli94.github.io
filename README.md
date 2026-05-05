@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stackoverflow.com/users/31742300/giorgio-antonelli">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
   <a href="https://www.instagram.com/giorgio.antonelli2026/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -30,7 +33,6 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   </a>
 </p>
-
 
 
 🎯 **Hi there!**  

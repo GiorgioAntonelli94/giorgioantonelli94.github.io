@@ -26,7 +26,11 @@
   <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub">
     <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://slack.com/team/U09R8EHG24T">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>
 </p>
+
 
 
 🎯 **Hi there!**  

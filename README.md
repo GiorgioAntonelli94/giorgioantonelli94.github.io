@@ -34,6 +34,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://giorgioantonelli94.github.io/" alt="My QR Code" />
+  <br>
+  <sub>Scansiona per visitare il mio sito</sub>
+</p>
 
 🎯 **Hi there!**  
 

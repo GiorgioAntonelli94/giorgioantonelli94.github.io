@@ -86,7 +86,7 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System DevOps Engineer** <br> `Azure` • `Infrastructure` • `CI/CD` | 📍 Milano  | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/106) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **DevOps Engineer** <br> `Azure` • `Infrastructure` • `Kubernetes` | 📍 Milano  | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/106) |
 
 ### 👥 Team Members on GitHub
 

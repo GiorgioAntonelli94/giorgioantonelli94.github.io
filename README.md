@@ -109,8 +109,6 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 [![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 
-[![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
-
 [![Instagram](https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inrebustechnologies_gruppofos/)
 
 ## Newsletter
@@ -127,8 +125,6 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.gruppofos.it/lavora-noi/)
-
-[![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gruppofos/)
 

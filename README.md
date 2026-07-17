@@ -89,6 +89,7 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Senior Network Security** <br> `Cybersecurity` • `Networking` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-network-security-roma-138249/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Security Architect** <br> `Cybersecurity` • `Architecture` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-security-architect-roma-138250/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer React & .NET** <br> `Development` • `React & .NET` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-react-net-genova-139564/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista Tecnico GIS** <br> `Engineering` • `GIS & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-tecnico-gis-roma-141383/it/) |
  
 
 ### 👥 Team Members on GitHub

@@ -80,6 +80,7 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 
 
 
+
 ## 💼 Open Positions Dashboard
 
 | Status | Role | Location | Action |
@@ -91,7 +92,10 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer React & .NET** <br> `Development` • `React & .NET` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-react-net-genova-139564/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista Tecnico GIS** <br> `Engineering` • `GIS & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-tecnico-gis-roma-141383/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Analytics Engineer** <br> `Data` • `Analytics` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/data-analytics-engineer-torino-141445/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista tecnico GIS** <br> `Engineering` • `GIS & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-tecnico-gis-roma-141383/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analysis` • `Functional` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-genova-141595/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Front-End Developer React** <br> `Development` • `React` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/frontend-developer-react-genova-141605/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-Stack Developer (UI Focus)** <br> `Development` • `UI Focus` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-ui-focus-141609/it/) |
+
  
 
 ### 👥 Team Members on GitHub

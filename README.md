@@ -75,6 +75,11 @@ With a background in **Philosophy**, I apply critical thinking and dialectical a
 Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on **GitHub** 🐙 where creativity and logic meet.
 
 
+## My Newsletter
+
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Mr._Py%27s_Monday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/mr-py%E2%80%99s-monday-7497590386228498432/)
+
+
 [![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
 ---
 

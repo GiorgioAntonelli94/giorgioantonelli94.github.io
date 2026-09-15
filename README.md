@@ -90,18 +90,13 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **HV system management Torino** <br>`IT & Software`| 📍 Torino |[**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/hv-system-management-torino-147367/it/)
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tecnico Junior Diagnostica Elettrica/Elettronica** <br> `IT & Software` • `Hardware & Support` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/supporto-tecnico-junior-torino-139950/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Technical Support Entry level (inglese-tedesco)** <br> `IT & Software` • `Technical Support` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/technical-support-entry-level-inglesetedesco-torino-144147/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Microsoft.NET Developer** <br> `IT & Software` • `Development` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/microsoftnet-developer-144917/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data & IETP Engineer** <br> `IT & Software` • `Data Engineering` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/data-ietp-engineer-144404/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **HSE specialist** <br> `IT & Software` • `HSE` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/hse-specialist-genova-142821/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Help Desk Applicativo Junior** <br> `IT & Software` • `Help Desk` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/help-desk-applicativo-junior-genova-143060/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **AI & Data Mining Specialist** <br> `IT & Software` • `AI & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/ai-data-mining-specialist-roma-142163/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Analytics Engineer** <br> `IT & Software` • `Analytics` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/data-analytics-engineer-torino-141445/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **HV Power Distribution Engineer** <br> `IT & Software` • `Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/hv-power-distribution-engineer-genova-139567/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior SOC Analyst** <br> `IT & Software` • `Cybersecurity` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-soc-analyst-roma-137579/it/) |
- 
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `IT & Software` • `Functional Analysis` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/app.php?opmode=company&module=CompanyRoutes&moduleName=vacancies&act1=detailsVacancy&back=15&IdAnnuncio=147843&CSRFToken=9cd94b95f33dcf94&CSRFHash=51a1ea1254315de2a8a1e5d98f5707e69faa0a58580ea54bb3e95d7b9a777c30) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **F5 BIG-IP & WAF Specialist** <br> `IT & Software` • `Cybersecurity & Networks` | 📍 Bruxelles | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/bigip-waf-specialist-bruxelles-147999/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **C++ Developer** <br> `IT & Software` • `Development` | 📍 Valbonne | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/118) |
 
 ### 👥 Team Members on GitHub
 

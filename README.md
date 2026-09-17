@@ -97,6 +97,8 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `IT & Software` • `Functional Analysis` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/app.php?opmode=company&module=CompanyRoutes&moduleName=vacancies&act1=detailsVacancy&back=15&IdAnnuncio=147843&CSRFToken=9cd94b95f33dcf94&CSRFHash=51a1ea1254315de2a8a1e5d98f5707e69faa0a58580ea54bb3e95d7b9a777c30) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **F5 BIG-IP & WAF Specialist** <br> `IT & Software` • `Cybersecurity & Networks` | 📍 Bruxelles | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/bigip-waf-specialist-bruxelles-147999/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **C++ Developer** <br> `IT & Software` • `Development` | 📍 Valbonne | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/118) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Salesforce Developer**  <br> `IT & Software` • `Development| 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/salesforce-developer-roma-150909/it/) |
+
 
 ### 👥 Team Members on GitHub
 

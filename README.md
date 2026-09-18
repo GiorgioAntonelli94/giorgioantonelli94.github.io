@@ -98,7 +98,7 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **F5 BIG-IP & WAF Specialist** <br> `IT & Software` • `Cybersecurity & Networks` | 📍 Bruxelles | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/bigip-waf-specialist-bruxelles-147999/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **C++ Developer** <br> `IT & Software` • `Development` | 📍 Valbonne | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/118) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Salesforce Developer**  <br> `IT & Software` • `Development| 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/salesforce-developer-roma-150909/it/) |
-
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Windows System Administrator Roma Bologna**  <br> `IT & Software` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/windows-system-administrator-romabologna-150682/it/)) |
 
 ### 👥 Team Members on GitHub
 

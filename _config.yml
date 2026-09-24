@@ -1,43 +1,31 @@
-title: "Giorgio Antonelli"
-subtitle: "Full Stack & Social Media Recruiter"
-description: "Talent Acquisition at inRebus Technologies | Part of FOS Group"
-url: "https://giorgioantonelli94.github.io"
+Jekill yml
 
-# Impostazioni Tema Minimal Mistakes
-theme: "minimal-mistakes-jekyll"
-minimal_mistakes_skin: "dark" # Opzioni: "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+---
+---
+@import "{{ site.theme }}";
 
-# Configurazione Autore per la Sidebar
-author:
-  name: "Giorgio Antonelli"
-  avatar: "/assets/images/loghi.jpg" # Salva qui la tua immagine di copertina/logo
-  bio: "Full Stack & Social Media Recruiter | Talent Acquisition at inRebus Technologies (FOS Group)"
-  location: "Italy"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:giorgio.antonelli@inrebus.it"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/giorgio-antonelli-1b9152245/"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/31742300/giorgio-antonelli"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/giorgio.antonelli2026/"
-    - label: "WhatsApp"
-      icon: "fab fa-fw fa-whatsapp"
-      url: "https://wa.me/3443428074"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub"
-    - label: "Slack"
-      icon: "fab fa-fw fa-slack"
-      url: "https://slack.com/team/U09R8EHG24T"
-    - label: "Moxfield"
-      icon: "fas fa-fw fa-cards"
-      url: "https://moxfield.com/users/Giorgio_Antonelli"
-    - label: "Academia.edu"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://unito.academia.edu/GiorgioAntonelli"
+/* Nasconde il corpo della pagina e il footer */
+.main-content {
+  display: none;
+}
+
+/* Se vuoi che la testata (dove c'è l'immagine) sia a tutto schermo */
+.page-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+
+title: Il Mio Progetto Cayman
+description: Una descrizione accattivante per il tuo sito web.
+show_downloads: true # Mostra i pulsanti di download di GitHub (se applicabile)
+google_analytics: # Inserisci qui il tuo ID (es. UA-000000-01)
+
+# Se usi GitHub Pages:
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

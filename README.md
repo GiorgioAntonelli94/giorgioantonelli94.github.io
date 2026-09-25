@@ -1,11 +1,8 @@
----
-layout: home
-title: Full Stack & Social Media Recruiter
-subtitle: Talent Acquisition at inRebus Technologies (FOS Group)
-cover-img: /assets/img/path.jpg
----
-
 <div align="center">
+
+![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
+
+# 👾 👋 Hi, I am Giorgio! 🤓 🚀
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
@@ -13,7 +10,7 @@ cover-img: /assets/img/path.jpg
 
 <br><br>
 
-### 📫 Contacts & Quick Socials
+### 📫 Contacts & Social Media
 
 <p align="center">
   <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank">
@@ -43,7 +40,6 @@ cover-img: /assets/img/path.jpg
 
 ---
 
-<a name="about-me"></a>
 ## 🎯 About Me
 
 I’m Giorgio, a **Full Stack & Social Media Recruiter** passionate about connecting people, technology, and ideas.
@@ -88,7 +84,6 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
-<a name="open-positions"></a>
 ## 💼 Open Positions Dashboard
 
 | Status | Role & Category | Location | Action |
@@ -113,7 +108,6 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
-<a name="companies"></a>
 ## 🏢 Companies & Ecosystem
 
 ### 🇮🇹 inRebus Technologies (FOS Group)

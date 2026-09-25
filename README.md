@@ -1,8 +1,11 @@
+---
+layout: home
+title: Full Stack & Social Media Recruiter
+subtitle: Talent Acquisition at inRebus Technologies (FOS Group)
+cover-img: /assets/img/path.jpg
+---
+
 <div align="center">
-
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
-
-# 👾 👋 Hi, I am Giorgio! 🤓 🚀
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
@@ -10,7 +13,7 @@
 
 <br><br>
 
-### 📫 Contacts & Social Media
+### 📫 Contacts & Quick Socials
 
 <p align="center">
   <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank">
@@ -40,6 +43,7 @@
 
 ---
 
+<a name="about-me"></a>
 ## 🎯 About Me
 
 I’m Giorgio, a **Full Stack & Social Media Recruiter** passionate about connecting people, technology, and ideas.
@@ -84,6 +88,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
+<a name="open-positions"></a>
 ## 💼 Open Positions Dashboard
 
 | Status | Role & Category | Location | Action |
@@ -108,6 +113,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
+<a name="companies"></a>
 ## 🏢 Companies & Ecosystem
 
 ### 🇮🇹 inRebus Technologies (FOS Group)
@@ -159,12 +165,4 @@ Audensiel is a global digital transformation partner specializing in high-tech a
   <a href="https://www.instagram.com/audensiel/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Audensiel" />
   </a>
-</p>
-
-
-### 🔥 GitHub Stats & Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgioAntonelli94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>

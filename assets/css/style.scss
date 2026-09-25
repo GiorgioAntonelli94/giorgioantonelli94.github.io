@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  display: none;
+}
+
+.page-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 0;
+}

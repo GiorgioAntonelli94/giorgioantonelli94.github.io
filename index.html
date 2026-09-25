@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="Giorgio Antonelli - Full Stack & Social Media Recruiter">
+
+  <title>Giorgio Antonelli | Full Stack & Social Media Recruiter</title>
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #ffffff;
+      color: #24292f;
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif;
+      line-height: 1.6;
+    }
+
+    a {
+      color: #0969da;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    /* =========================
+       MAIN CONTAINER
+       ========================= */
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 30px 80px;
+    }
+
+    /* =========================
+       HERO
+       ========================= */
+
+    .hero {
+      text-align: center;
+      padding: 20px 0 45px;
+    }
+
+    .hero-logo {
+      display: block;
+      width: 100%;
+      max-width: 1100px;
+      height: auto;
+      margin: 0 auto 30px;
+      border-radius: 8px;
+    }
+
+    .hero h1 {
+      margin: 20px 0 15px;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      line-height: 1.2;
+      color: #24292f;
+    }
+
+    .typing {
+      display: inline-block;
+      max-width: 100%;
+    }
+
+    .typing img {
+      width: 600px;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .contact-title {
+      margin-top: 35px;
+      margin-bottom: 18px;
+      font-size: 1.25rem;
+    }
+
+    .social-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .social-buttons img {
+      height: 28px;
+      width: auto;
+    }
+
+    /* =========================
+       SECTIONS
+       ========================= */
+
+    .section {
+      border-top: 1px solid #d8dee4;
+      margin-top: 40px;
+      padding-top: 40px;
+    }
+
+    .section h2 {
+      font-size: 1.9rem;
+      margin: 0 0 25px;
+      color: #24292f;
+    }
+
+    .section h3 {
+      margin-top: 25px;
+      margin-bottom: 12px;
+      color: #24292f;
+    }
+
+    /* =========================
+       ABOUT
+       ========================= */
+
+    .about-text {
+      font-size: 1.05rem;
+    }
+
+    .approach {
+      margin-top: 25px;
+    }
+
+    .approach li {
+      margin-bottom: 10px;
+    }
+
+    /* =========================
+       INTERESTS
+       ========================= */
+
+    .interest-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 25px;
+      margin-top: 25px;
+    }
+
+    .interest-card {
+      border: 1px solid #d8dee4;
+      border-radius: 12px;
+      padding: 25px;
+      background: #f6f8fa;
+    }
+
+    .interest-card h3 {
+      margin-top: 0;
+    }
+
+    .interest-card p {
+      margin-bottom: 15px;
+    }
+
+    .badge-link img {
+      max-width: 100%;
+    }
+
+    .publication {
+      margin-top: 30px;
+    }
+
+    /* =========================
+       JOB DASHBOARD
+       ========================= */
+
+    .table-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      border: 1px solid #d8dee4;
+      border-radius: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 750px;
+      background: #ffffff;
+    }
+
+    th {
+      background: #f6f8fa;
+      font-weight: 600;
+      text-align: left;
+      padding: 14px 12px;
+      border-bottom: 1px solid #d8dee4;
+    }
+
+    td {
+      padding: 14px 12px;
+      border-bottom: 1px solid #d8dee4;
+      vertical-align: middle;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    .status {
+      display: inline-block;
+      background: #1a7f37;
+      color: white;
+      padding: 3px 8px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .category {
+      color: #656d76;
+      font-size: 0.9rem;
+    }
+
+    .apply-button {
+      display: inline-block;
+      background: #0969da;
+      color: white;
+      padding: 7px 12px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }
+
+    .apply-button:hover {
+      background: #0559b8;
+      color: white;
+      text-decoration: none;
+    }
+
+    /* =========================
+       TEAM
+       ========================= */
+
+    .team-table {
+      margin-top: 25px;
+    }
+
+    .avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      vertical-align: middle;
+    }
+
+    /* =========================
+       COMPANIES
+       ========================= */
+
+    .company {
+      padding: 25px 0;
+      border-bottom: 1px solid #d8dee4;
+    }
+
+    .company:last-child {
+      border-bottom: none;
+    }
+
+    .company h3 {
+      font-size: 1.4rem;
+      margin-top: 0;
+    }
+
+    .company-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }
+
+    .company-buttons img {
+      height: 28px;
+      width: auto;
+      max-width: 100%;
+    }
+
+    /* =========================
+       FOOTER
+       ========================= */
+
+    footer {
+      border-top: 1px solid #d8dee4;
+      margin-top: 50px;
+      padding-top: 25px;
+      text-align: center;
+      color: #656d76;
+      font-size: 0.9rem;
+    }
+
+    /* =========================
+       MOBILE
+       ========================= */
+
+    @media (max-width: 768px) {
+
+      .container {
+        padding: 20px 15px 50px;
+      }
+
+      .hero {
+        padding-top: 10px;
+      }
+
+      .hero-logo {
+        margin-bottom: 20px;
+      }
+
+      .hero h1 {
+        font-size: 2rem;
+      }
+
+      .social-buttons {
+        gap: 6px;
+      }
+
+      .social-buttons img {
+        height: 26px;
+      }
+
+      .interest-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .section {
+        margin-top: 30px;
+        padding-top: 30px;
+      }
+
+      .section h2 {
+        font-size: 1.6rem;
+      }
+
+      .company-buttons {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .company-buttons img {
+        max-width: 100%;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- =========================
+       HERO
+       ========================= -->
+
+  <header class="hero">
+
+    <img
+      class="hero-logo"
+      src="https://raw.githubusercontent.com/GiorgioAntonelli94/giorgioantonelli94.github.io/6151a90ceb32a5f8cdb8f8e30201f1fef47bddb5/loghi.jpg"
+      alt="InRebus Technologies"
+    >
+
+    <h1>👾 👋 Hi, I am Giorgio! 🤓 🚀</h1>
+
+    <div class="typing">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group"
+        alt="Full Stack and Social Media Recruiter"
+      >
+    </div>
+
+    <h3 class="contact-title">📫 Contacts & Social Media</h3>
+
+    <div class="social-buttons">
+
+      <a href="mailto:giorgio.antonelli@inrebus.it">
+        <img
+          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="Email"
+        >
+      </a>
+
+      <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        >
+      </a>
+
+      <a href="https://stackoverflow.com/users/31742300/giorgio-antonelli" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+          alt="Stack Overflow"
+        >
+      </a>
+
+      <a href="https://www.instagram.com/giorgio.antonelli2026/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+          alt="Instagram"
+        >
+      </a>
+
+      <a href="https://wa.me/3443428074" target="_blank">
+        <img
+          src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+          alt="WhatsApp"
+        >
+      </a>
+
+      <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white"
+          alt="Telegram"
+        >
+      </a>
+
+      <a href="https://slack.com/team/U09R8EHG24T" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+          alt="Slack"
+        >
+      </a>
+
+    </div>
+
+  </header>
+
+
+  <!-- =========================
+       ABOUT ME
+       ========================= -->
+
+  <section class="section" id="about-me">
+
+    <h2>🎯 About Me</h2>
+
+    <div class="about-text">
+
+      <p>
+        I’m Giorgio, a <strong>Full Stack & Social Media Recruiter</strong>
+        passionate about connecting people, technology, and ideas.
+      </p>
+
+      <p>
+        At <strong>inRebus Technologies</strong> <em>(FOS Group)</em>,
+        I support both companies and professionals in their digital and human growth.
+        I specialize in recruiting IT profiles: Developers, Analysts,
+        System Engineers, Data Specialists, as well as creative talents
+        in the digital learning sector.
+      </p>
+
+    </div>
+
+    <div class="approach">
+
+      <h3>🧠 My Approach</h3>
+
+      <ul>
+        <li>
+          🤝 <strong>Human-Centric:</strong>
+          Combining strategy, empathy, data, and culture in every step
+          of the recruitment process.
+        </li>
+
+        <li>
+          📣 <strong>Social Recruitment:</strong>
+          Leveraging storytelling and employer branding to attract
+          and build strong communities.
+        </li>
+      </ul>
+
+    </div>
+
+  </section>
+
+
+  <!-- =========================
+       PERSONAL INTERESTS
+       ========================= -->
+
+  <section class="section">
+
+    <h2>🎭 Personal Interests & Passion Projects</h2>
+
+    <div class="interest-grid">
+
+      <div class="interest-card">
+
+        <h3>🧙‍♂️ Nerd at Heart & Player</h3>
+
+        <p>
+          Avid reader 📖, <strong>Magic the Gathering player</strong> 🎴,
+          and lifelong learner — I believe that curiosity is the true
+          engine of innovation.
+        </p>
+
+        <p><strong>Check out my decks:</strong></p>
+
+        <a
+          class="badge-link"
+          href="https://moxfield.com/users/Giorgio_Antonelli"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Moxfield-My%20Decks-202935?style=for-the-badge&logo=magic-the-gathering&logoColor=white"
+            alt="Moxfield Profile"
+          >
+        </a>
+
+      </div>
+
+
+      <div class="interest-card">
+
+        <h3>🏛️ Philosophy & Academic Roots</h3>
+
+        <p>
+          With a background in <strong>Philosophy</strong>,
+          I apply critical thinking and dialectical analysis
+          to the professional world. Technology is, first and foremost,
+          a product of human ingenuity.
+        </p>
+
+        <p><strong>Research & Papers:</strong></p>
+
+        <a
+          class="badge-link"
+          href="https://unito.academia.edu/GiorgioAntonelli"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Academia.edu-Papers%20%26%20Research-000000?style=for-the-badge&logo=academia&logoColor=white"
+            alt="Academia.edu"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <div class="publication">
+
+      <h3>📰 Personal Publication</h3>
+
+      <a
+        href="https://www.linkedin.com/newsletters/mr-py%E2%80%99s-monday-7497590386228498432/"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/LinkedIn_Newsletter-Mr._Py's_Monday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn Newsletter"
+        >
+      </a>
+
+    </div>
+
+  </section>
+
+
+  <!-- =========================
+       OPEN POSITIONS
+       ========================= -->
+
+  <section class="section" id="open-positions">
+
+    <h2>💼 Open Positions Dashboard</h2>
+
+    <div class="table-wrapper">
+
+      <table>
+
+        <thead>
+          <tr>
+            <th>Status</th>
+            <th>Role & Category</th>
+            <th>Location</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+
+        <tbody>
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>Tecnico Junior Diagnostica Elettrica/Elettronica</strong>
+              <br>
+              <span class="category">IT & Software • Hardware & Support</span>
+            </td>
+            <td>📍 Torino</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/supporto-tecnico-junior-torino-139950/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>Microsoft.NET Developer</strong>
+              <br>
+              <span class="category">IT & Software • Development</span>
+            </td>
+            <td>📍 Genova</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/microsoftnet-developer-144917/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>AI & Data Mining Specialist</strong>
+              <br>
+              <span class="category">IT & Software • AI & Data</span>
+            </td>
+            <td>📍 Roma</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/ai-data-mining-specialist-roma-142163/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>Analista Funzionale</strong>
+              <br>
+              <span class="category">IT & Software • Functional Analysis</span>
+            </td>
+            <td>📍 Genova</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/app.php?opmode=company&module=CompanyRoutes&moduleName=vacancies&act1=detailsVacancy&back=15&IdAnnuncio=147843&CSRFToken=9cd94b95f33dcf94&CSRFHash=51a1ea1254315de2a8a1e5d98f5707e69faa0a58580ea54bb3e95d7b9a777c30"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>F5 BIG-IP & WAF Specialist</strong>
+              <br>
+              <span class="category">IT & Software • Cybersecurity & Networks</span>
+            </td>
+            <td>📍 Bruxelles</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/bigip-waf-specialist-bruxelles-147999/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>C++ Developer</strong>
+              <br>
+              <span class="category">IT & Software • Development</span>
+            </td>
+            <td>📍 Valbonne</td>
+            <td>
+              <a class="apply-button"
+                 href="https://github.com/GiorgioAntonelli94/Open-Position/issues/118"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>Salesforce Developer</strong>
+              <br>
+              <span class="category">IT & Software • Development</span>
+            </td>
+            <td>📍 Roma</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/salesforce-developer-roma-150909/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td><span class="status">ACTIVE</span></td>
+            <td>
+              <strong>Windows System Administrator</strong>
+              <br>
+              <span class="category">IT & Software</span>
+            </td>
+            <td>📍 Roma / Bologna</td>
+            <td>
+              <a class="apply-button"
+                 href="https://zinrec.intervieweb.it/gruppofos/jobs/windows-system-administrator-romabologna-150682/it/"
+                 target="_blank">
+                Apply Now
+              </a>
+            </td>
+          </tr>
+
+        </tbody>
+
+      </table>
+
+    </div>
+
+
+    <!-- TEAM -->
+
+    <h3 style="margin-top: 40px;">👥 Team Members on GitHub</h3>
+
+    <div class="table-wrapper team-table">
+
+      <table>
+
+        <thead>
+          <tr>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>GitHub Profile</th>
+            <th>LinkedIn</th>
+          </tr>
+        </thead>
+
+        <tbody>
+
+          <tr>
+            <td>
+              <img
+                class="avatar"
+                src="https://github.com/HibaBadra1004.png"
+                alt="Hiba Badra"
+              >
+            </td>
+
+            <td><strong>Hiba Badra</strong></td>
+
+            <td>
+              <a href="https://github.com/HibaBadra1004" target="_blank">
+                @HibaBadra1004
+              </a>
+            </td>
+
+            <td>
+              <a
+                href="https://linkedin.com/in/hiba-badra-023480194/"
+                target="_blank"
+              >
+                Profile
+              </a>
+            </td>
+          </tr>
+
+
+          <tr>
+
+            <td>
+              <img
+                class="avatar"
+                src="https://github.com/Marwa-TalentAcquisition.png"
+                alt="Marwa"
+              >
+            </td>
+
+            <td><strong>Marwa</strong></td>
+
+            <td>
+              <a
+                href="https://github.com/Marwa-TalentAcquisition"
+                target="_blank"
+              >
+                @Marwa-TalentAcquisition
+              </a>
+            </td>
+
+            <td>
+              <a
+                href="https://www.linkedin.com/in/marwa-kadri/"
+                target="_blank"
+              >
+                Profile
+              </a>
+            </td>
+
+          </tr>
+
+        </tbody>
+
+      </table>
+
+    </div>
+
+  </section>
+
+
+  <!-- =========================
+       COMPANIES
+       ========================= -->
+
+  <section class="section" id="companies">
+
+    <h2>🏢 Companies & Ecosystem</h2>
+
+
+    <!-- INREBUS -->
+
+    <div class="company">
+
+      <h3>🇮🇹 inRebus Technologies (FOS Group)</h3>
+
+      <p>
+        Founded in Turin in 2003, <strong>inRebus Technologies</strong>
+        is a software house and IT consulting company.
+        Since 2020, we’ve been part of <strong>FOS Group S.p.A.</strong>,
+        expanding our expertise in digital and public administration fields.
+      </p>
+
+      <p>
+        <strong>Offered Services:</strong>
+        🔹 <a href="https://www.inrebus.it/" target="_blank">
+          Software Factory
+        </a>
+        |
+        🔹 <a href="https://www.inrebus.education/" target="_blank">
+          Digital Learning
+        </a>
+      </p>
+
+      <div class="company-buttons">
+
+        <a
+          href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white"
+            alt="Career Recruiting Area"
+          >
+        </a>
+
+        <a
+          href="https://www.instagram.com/inrebustechnologies_gruppofos/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram InRebus Technologies"
+          >
+        </a>
+
+        <a
+          href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/LinkedIn-Bacheca_Annunci_Inrebus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn InRebus"
+          >
+        </a>
+
+        <a
+          href="https://www.linkedin.com/newsletters/futureading-digital-education-7335669848519102464/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/LinkedIn-Futureading_Digital_Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Futureading Digital Education"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <!-- FOS -->
+
+    <div class="company">
+
+      <h3>🇮🇹 FOS Group</h3>
+
+      <p>
+        Gruppo FOS is an innovative technology hub dedicated to Italian
+        polytechnic excellence with a global reach.
+        With over 25 years of experience in ICT, the Group integrates
+        specialized skills across Automation, Telecommunications,
+        and Engineering.
+      </p>
+
+      <div class="company-buttons">
+
+        <a
+          href="https://zinrec.intervieweb.it/gruppofos/it/career"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white"
+            alt="FOS Career"
+          >
+        </a>
+
+        <a
+          href="https://www.gruppofos.it/lavora-noi/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white"
+            alt="Join Gruppo FOS"
+          >
+        </a>
+
+        <a
+          href="https://www.instagram.com/gruppofos/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram Gruppo FOS"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <!-- AUDENSIEL -->
+
+    <div class="company">
+
+      <h3>🌍 Audensiel</h3>
+
+      <p>
+        Audensiel is a global digital transformation partner specializing
+        in high-tech and business consulting across sectors like Banking,
+        Healthcare, and Industry.
+        They deliver end-to-end Digital and Cloud/DevOps solutions
+        using Agile methodologies, while leveraging Data, AI, and IoT.
+      </p>
+
+      <div class="company-buttons">
+
+        <a
+          href="https://www.audensiel.com/jobs"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white"
+            alt="Join Audensiel"
+          >
+        </a>
+
+        <a
+          href="https://www.instagram.com/audensiel/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram Audensiel"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <footer>
+    © 2026 Giorgio Antonelli · Full Stack & Social Media Recruiter
+  </footer>
+
+</div>
+
+</body>
+</html>

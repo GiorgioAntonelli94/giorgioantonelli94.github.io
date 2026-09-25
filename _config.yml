@@ -1,35 +1,31 @@
-title: Giorgio Antonelli
-author: Giorgio Antonelli
-navbar-title: Giorgio Antonelli
+Jekill yml
 
-# Personalizzazione Header
-avatar: "https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg?raw=true"
-round_avatar: true
+---
+---
+@import "{{ site.theme }}";
 
-# Link della Navbar in alto
-navbar-links:
-  Posizioni Aperte: "#open-positions"
-  Chi Sono: "#about-me"
-  Aziende: "#companies"
-  Moxfield: "https://moxfield.com/users/Giorgio_Antonelli"
-  Academia.edu: "https://unito.academia.edu/GiorgioAntonelli"
+/* Nasconde il corpo della pagina e il footer */
+.main-content {
+  display: none;
+}
 
-# Social Link nel Footer
-social-network-links:
-  email: "giorgio.antonelli@inrebus.it"
-  linkedin: "giorgio-antonelli-1b9152245"
-  stackoverflow: "31742300/giorgio-antonelli"
-  instagram: "giorgio.antonelli2026"
-  whatsapp: "3443428074"
-  telegram: "+393443428074"
-  slack: "team/U09R8EHG24T"
+/* Se vuoi che la testata (dove c'è l'immagine) sia a tutto schermo */
+.page-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 0;
+}
 
-# Pagine da escludere dalla compilazione
-exclude:
-  - README.md
-  - LICENSE
 
-# Configurazione Jekyll Base
+title: Il Mio Progetto Cayman
+description: Una descrizione accattivante per il tuo sito web.
+show_downloads: true # Mostra i pulsanti di download di GitHub (se applicabile)
+google_analytics: # Inserisci qui il tuo ID (es. UA-000000-01)
+
+# Se usi GitHub Pages:
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-seo-tag

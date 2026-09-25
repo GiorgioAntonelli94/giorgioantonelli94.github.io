@@ -1,45 +1,52 @@
-<div align="center">
+---
+layout: home
+title: Giorgio Antonelli
+subtitle: Full Stack & Social Media Recruiter
+---
 
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/giorgioantonelli94.github.io/blob/6151a90ceb32a5f8cdb8f8e30201f1fef47bddb5/loghi.jpg)
+<div style="text-align: center;">
 
-# 👾 👋 Hi, I am Giorgio! 🤓 🚀
+  <img src="https://raw.githubusercontent.com/GiorgioAntonelli94/giorgioantonelli94.github.io/6151a90ceb32a5f8cdb8f8e30201f1fef47bddb5/loghi.jpg" alt="InRebus Technologies" style="max-width: 100%; height: auto;" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
-</a>
+  <h1 style="margin-top: 20px;">👾 👋 Hi, I am Giorgio! 🤓 🚀</h1>
 
-<br><br>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
+  </a>
 
-### 📫 Contacts & Social Media
+  <br><br>
 
-<p align="center">
-  <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/31742300/giorgio-antonelli" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.instagram.com/giorgio.antonelli2026/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/3443428074" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://slack.com/team/U09R8EHG24T" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  </a>
-</p>
+  <h3>📫 Contacts & Social Media</h3>
+
+  <p>
+    <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://stackoverflow.com/users/31742300/giorgio-antonelli" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="https://www.instagram.com/giorgio.antonelli2026/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://wa.me/3443428074" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://slack.com/team/U09R8EHG24T" target="_blank">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
+<a name="about-me"></a>
 ## 🎯 About Me
 
 I’m Giorgio, a **Full Stack & Social Media Recruiter** passionate about connecting people, technology, and ideas.
@@ -84,6 +91,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
+<a name="open-positions"></a>
 ## 💼 Open Positions Dashboard
 
 | Status | Role & Category | Location | Action |
@@ -108,6 +116,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 ---
 
+<a name="companies"></a>
 ## 🏢 Companies & Ecosystem
 
 ### 🇮🇹 inRebus Technologies (FOS Group)

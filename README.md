@@ -1,6 +1,6 @@
 <div align="center">
 
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
+![InRebus Technologies](https://github.com/GiorgioAntonelli94/giorgioantonelli94.github.io/blob/6151a90ceb32a5f8cdb8f8e30201f1fef47bddb5/loghi.jpg)
 
 # 👾 👋 Hi, I am Giorgio! 🤓 🚀
 

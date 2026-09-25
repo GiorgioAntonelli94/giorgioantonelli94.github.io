@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 title: Giorgio Antonelli
-subtitle: Full Stack & Social Media Recruiter
+description: Full Stack & Social Media Recruiter
 ---
 
 <div style="text-align: center;">

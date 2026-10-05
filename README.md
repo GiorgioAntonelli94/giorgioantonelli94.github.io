@@ -104,6 +104,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **C++ Developer** <br> `IT & Software` • `Development` | 📍 Valbonne | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/118) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Salesforce Developer** <br> `IT & Software` • `Development` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/salesforce-developer-roma-150909/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Windows System Administrator** <br> `IT & Software` | 📍 Roma / Bologna | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/windows-system-administrator-romabologna-150682/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer (Java + Angular) – Freelance** <br> `Informatica` | 📍 Torino / Ibrido | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-java-angular-freelance-154372/it/) |
 
 <br>
 

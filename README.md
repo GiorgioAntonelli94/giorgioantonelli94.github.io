@@ -109,6 +109,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Product Security and PSIRT Specialist** <br> `IT & Software` • `Cybersecurity & Product Security` | 📍 Roma | [**Apply Now**](https://lnkd.in/e8kBSEU3) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingegnere PSIRT - Cyber Security Manager (CSM)** <br> `IT & Software` • `Cybersecurity & Management` | 📍 Roma | [**Apply Now**](https://lnkd.in/e5WS_K_N) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista in sicurezza dei prodotti e PSIRT** <br> `IT & Software` • `Cybersecurity & Product Security` | 📍 Roma | [**Apply Now**](https://lnkd.in/ehTSNsRs) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tirocinio Analista Funzionale/Junior PMO** <br> `IT & Software` • `Project Management & Consulting` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinio-analista-funzionalejunior-pmo-155497/it/) |
 <br>
 
 <br>

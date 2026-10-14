@@ -138,14 +138,15 @@ Founded in Turin in 2003, **inRebus Technologies** is a software house and IT co
   <a href="https://www.instagram.com/inrebustechnologies_gruppofos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram InRebus" />
   </a>
-  <a href="https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bacheca_Annunci_Inrebus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Inrebus" />
-  </a>
+    <a href="https://www.linkedin.com/newsletters/bacheca-annunci-7092501987237240832/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Bacheca%20Annunci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bacheca Annunci" />
+    </a>
+  </p>
+</div>
   <a href="https://www.linkedin.com/newsletters/futureading-digital-education-7335669848519102464/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Futureading_Digital_Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Futureading" />
   </a>
 </p>
-
 ---
 
 ### 🇮🇹 FOS Group

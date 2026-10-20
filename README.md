@@ -92,6 +92,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 ---
 
 <a name="open-positions"></a>
+
 ## 💼 Open Positions Dashboard
 
 | Status | Role & Category | Location | Action |
@@ -108,6 +109,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tirocinio Analista Funzionale/Junior PMO** <br> `IT & Software` • `Project Management & Consulting` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinio-analista-funzionalejunior-pmo-155497/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **IT Functional Analyst** <br> `IT & Software` • `Functional Analysis` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/it-functional-analyst-torino-156619/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Programmatore Senior SQL Server** <br> `IT & Software` • `Database & Development` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/programmatore-senior-sql-server-roma-156789/it/) |
+
 <br>
 
 <br>

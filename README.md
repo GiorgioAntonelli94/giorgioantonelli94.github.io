@@ -96,8 +96,6 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 
 | Status | Role & Category | Location | Action |
 | :---: | :--- | :---: | :---: |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tecnico Junior Diagnostica Elettrica/Elettronica** <br> `IT & Software` • `Hardware & Support` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/supporto-tecnico-junior-torino-139950/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Microsoft.NET Developer** <br> `IT & Software` • `Development` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/microsoftnet-developer-144917/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **AI & Data Mining Specialist** <br> `IT & Software` • `AI & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/ai-data-mining-specialist-roma-142163/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `IT & Software` • `Functional Analysis` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/app.php?opmode=company&module=CompanyRoutes&moduleName=vacancies&act1=detailsVacancy&back=15&IdAnnuncio=147843&CSRFToken=9cd94b95f33dcf94&CSRFHash=51a1ea1254315de2a8a1e5d98f5707e69faa0a58580ea54bb3e95d7b9a777c30) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System Administrator** <br> `IT & Software` • `System Administration & Infrastructure` | 📍 Bruxelles (Zona Sud) | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/system-administrator-bruxelles-zona-sud-155073/it/) |
@@ -109,6 +107,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista in sicurezza dei prodotti e PSIRT** <br> `IT & Software` • `Cybersecurity & Product Security` | 📍 Roma | [**Apply Now**](https://lnkd.in/ehTSNsRs) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tirocinio Analista Funzionale/Junior PMO** <br> `IT & Software` • `Project Management & Consulting` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinio-analista-funzionalejunior-pmo-155497/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **IT Functional Analyst** <br> `IT & Software` • `Functional Analysis` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/it-functional-analyst-torino-156619/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Programmatore Senior SQL Server** <br> `IT & Software` • `Database & Development` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/programmatore-senior-sql-server-roma-156789/it/) |
 <br>
 
 <br>

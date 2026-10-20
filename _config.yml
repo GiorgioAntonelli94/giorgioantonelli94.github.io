@@ -1,21 +1,22 @@
-@@ -1,43 +1,31 @@
 title: "Giorgio Antonelli"
 subtitle: "Full Stack & Social Media Recruiter"
 description: "Talent Acquisition at inRebus Technologies | Part of FOS Group"
 url: "https://giorgioantonelli94.github.io"
-Jekill yml
 
 # Impostazioni Tema Minimal Mistakes
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # Opzioni: "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
----
----
-@import "{{ site.theme }}";
+
+# Plugin Jekyll
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
 
 # Configurazione Autore per la Sidebar
 author:
   name: "Giorgio Antonelli"
-  avatar: "/assets/images/loghi.jpg" # Salva qui la tua immagine di copertina/logo
+  avatar: "/assets/images/loghi.jpg"
   bio: "Full Stack & Social Media Recruiter | Talent Acquisition at inRebus Technologies (FOS Group)"
   location: "Italy"
   links:
@@ -41,33 +42,8 @@ author:
       icon: "fab fa-fw fa-slack"
       url: "https://slack.com/team/U09R8EHG24T"
     - label: "Moxfield"
-      icon: "fas fa-fw fa-cards"
+      icon: "fas fa-fw fa-id-card"
       url: "https://moxfield.com/users/Giorgio_Antonelli"
     - label: "Academia.edu"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://unito.academia.edu/GiorgioAntonelli"
-/* Nasconde il corpo della pagina e il footer */
-.main-content {
-  display: none;
-}
-
-/* Se vuoi che la testata (dove c'è l'immagine) sia a tutto schermo */
-.page-header {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin-bottom: 0;
-}
-
-
-title: Il Mio Progetto Cayman
-description: Una descrizione accattivante per il tuo sito web.
-show_downloads: true # Mostra i pulsanti di download di GitHub (se applicabile)
-google_analytics: # Inserisci qui il tuo ID (es. UA-000000-01)
-
-# Se usi GitHub Pages:
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag

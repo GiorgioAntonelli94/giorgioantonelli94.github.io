@@ -104,6 +104,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System Administrator** <br> `IT & Software` • `System Administration & Infrastructure` | 📍 Bruxelles (Zona Sud) | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/system-administrator-bruxelles-zona-sud-155073/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer (Java + Angular) – Freelance** <br> `Informatica` | 📍 Torino / Ibrido | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-java-angular-freelance-154372/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **IT Functional Analyst** <br> `IT & Software` • `Functional Analysis` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/it-functional-analyst-torino-156619/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer (Java + Angular)** <br> `IT & Software` • `Software Development` | 📍 Full Remote / Trasferte | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-java-angular-full-remote-trasferte-159798/it/) |
 
 <br>
 

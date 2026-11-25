@@ -16,6 +16,8 @@ subtitle: Full Stack & Social Media Recruiter
 
   <br><br>
 
+<div style="text-align: center;">
+  
   <h3>📫 Contacts & Social Media</h3>
 
   <p>
@@ -25,23 +27,24 @@ subtitle: Full Stack & Social Media Recruiter
     <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://stackoverflow.com/users/31742300/giorgio-antonelli" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-    </a>
     <a href="https://www.instagram.com/giorgio.antonelli2026/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://wa.me/3443428074" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://slack.com/team/U09R8EHG24T" target="_blank">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-    </a>
   </p>
 
+
+<div style="text-align: center;">
+  
+## 💼 Work with Us
+
+  <!-- ATS Career Portal Badge -->
+  <a href="https://zinrec.intervieweb.it/gruppofos/it/career" target="_blank">
+    <img src="https://img.shields.io/badge/ATS-Direct%20Career%20Portal-00A859?style=for-the-badge&logo=workplace&logoColor=white" alt="Direct ATS Career Portal" height="45" />
+  </a>
+</div>
 </div>
 
 ---
@@ -88,28 +91,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
     <img src="https://img.shields.io/badge/LinkedIn_Newsletter-Mr._Py's_Monday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Newsletter" />
   </a>
 </p>
-
 ---
-
-<a name="open-positions"></a>
-
-## 💼 Open Positions Dashboard
-
-| Status | Role & Category | Location | Action |
-| :---: | :--- | :---: | :---: |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Applied Researcher / R&D Engineer ICT** <br> `Ricerca e Sviluppo` • `ICT` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/applied-researcher-rd-engineer-ict-torino-159361/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Ingegnere Elettronico** <br> `Ingegneria` • `Elettronica` | 📍 Caserta | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-elettronico-caserta-157573/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Cyber System Engineer** <br> `IT & Software` • `Cybersecurity` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/cyber-system-engineer-roma-157851/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `IT & Software` • `Functional Analysis` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/app.php?opmode=company&module=CompanyRoutes&moduleName=vacancies&act1=detailsVacancy&back=15&IdAnnuncio=147843&CSRFToken=9cd94b95f33dcf94&CSRFHash=51a1ea1254315de2a8a1e5d98f5707e69faa0a58580ea54bb3e95d7b9a777c30) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System Administrator** <br> `IT & Software` • `System Administration & Infrastructure` | 📍 Bruxelles (Zona Sud) | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/system-administrator-bruxelles-zona-sud-155073/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Sistemista Microsoft Windows** <br> `IT & Software` • `System Administration & Infrastructure` | 📍 Full-Remote / Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/sistemista-microsoft-windows-fullremote-rientri-in-sede-a-roma-161252/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Sistemista ICT** <br> `IT & Software` • `System Administration & Infrastructure` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/sistemista-ict-genova-160627/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer (Java + Angular) – Freelance** <br> `Informatica` | 📍 Torino / Ibrido | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-java-angular-freelance-154372/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer Java + Angular** <br> `IT & Software` • `Software Development` | 📍 Torino | [**Apply Now**](https://lnkd.in/ep5xNQhy) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer (Java + Angular)** <br> `IT & Software` • `Software Development` | 📍 Full Remote / Trasferte | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-java-angular-full-remote-trasferte-159798/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **IT Functional Analyst** <br> `IT & Software` • `Functional Analysis` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/it-functional-analyst-torino-156619/it/) |
-
-<br>
 
 <br>
 
@@ -137,14 +119,6 @@ Founded in Turin in 2003, **inRebus Technologies** is a software house and IT co
   <a href="https://www.instagram.com/inrebustechnologies_gruppofos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram InRebus" />
   </a>
-    <a href="https://www.linkedin.com/newsletters/bacheca-annunci-7092501987237240832/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Bacheca%20Annunci-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bacheca Annunci" />
-    </a>
-  </p>
-</div>
-  <a href="https://www.linkedin.com/newsletters/futureading-digital-education-7335669848519102464/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Futureading_Digital_Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Futureading" />
-  </a>
 </p>
 ---
 
@@ -152,9 +126,6 @@ Founded in Turin in 2003, **inRebus Technologies** is a software house and IT co
 Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering.
 
 <p align="left">
-  <a href="https://zinrec.intervieweb.it/gruppofos/it/career" target="_blank">
-    <img src="https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white" alt="Work with us" />
-  </a>
   <a href="https://www.gruppofos.it/lavora-noi/" target="_blank">
     <img src="https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white" alt="Join the team" />
   </a>
